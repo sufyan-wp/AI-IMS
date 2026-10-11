@@ -1,0 +1,11 @@
+# Environment and IDE
+.vscode/
+.idea/
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary uploads / cache (keep folder, ignore temp files)
+/assets/uploads/*
+!/assets/uploads/.gitkeep
